@@ -115,7 +115,7 @@ namespace XVLauncher.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Pokemon Starter Squad Adventures.
+        ///   Looks up a localized string similar to PSSALauncherFiles.
         /// </summary>
         internal static string InstallDirectory {
             get {
@@ -133,7 +133,7 @@ namespace XVLauncher.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to TestApp.
+        ///   Looks up a localized string similar to Pokemon Starter Squad Adventures.
         /// </summary>
         internal static string SaveDirectory {
             get {
